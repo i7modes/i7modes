@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @i7modes
-- 🌱 I’m currently learning Computer Engineering
+Hi there 👋
+I am Mohammad Bazzar. I am currently studying Computer Engineering in Berzeit University. I am always looking for new and exciting ventures. So feel free to get in touch.
+
 - 📫 reach me MohammadBazns@gmail.com
