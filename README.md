@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @i7modes
+- 🌱 I’m currently learning Computer Engineering
+- 📫 reach me MohammadBazns@gmail.com
