@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm currently a **Computer Engineering student** w
 ---
 
 ### 💻 My GitHub Stats
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadBazzar&show_icons=true&theme=radical)
+  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=i7modes&show_icons=true&theme=radical)
 
 ---
 
