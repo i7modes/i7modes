@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm currently a **Computer Engineering student** w
 ### 🚀 About Me
 - 🎓 **Field of Study:** Computer Engineering  
 - 💡 **Interests:** Software Development, Problem Solving, and Emerging Technologies  
-- 🌟 **Philosophy:** Always curious and eager to learn something new  
 
 ---
 
@@ -21,5 +20,5 @@ Welcome to my GitHub profile! I'm currently a **Computer Engineering student** w
 
 ---
 
-Feel free to explore my repositories and connect with me for collaborations or discussions. Let's create something amazing together!
+Feel free to explore my repositories and connect with me for collaborations or discussions.
 
