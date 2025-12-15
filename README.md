@@ -4,18 +4,18 @@ Welcome to my GitHub profile! I'm currently a **Computer Engineering student** w
 
 ---
 
-### 🚀 About Me
-- 🎓 **Field of Study:** Computer Engineering  
-- 💡 **Interests:** Software Development, Problem Solving, and Emerging Technologies  
+###  About Me
+-  **Field of Study:** Computer Engineering  
+-  **Interests:** Software Development, Problem Solving, and Emerging Technologies  
 
 ---
 
-### 📫 Get in Touch
-- 📧 **Email:** [MohammadBazns@gmail.com](mailto:MohammadBazns@gmail.com)
+###  Get in Touch
+-  **Email:** [MohammadBazns@gmail.com](mailto:MohammadBazns@gmail.com)
 
 ---
 
-### 💻 My GitHub Stats
+###  My GitHub Stats
   ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=i7modes&show_icons=true&theme=radical)
 
 ---
