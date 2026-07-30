@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mohammad Bazzar
+# Hi there, I'm Mohammad Bazzar
 
 Welcome to my GitHub profile! I'm currently a **Computer Engineering student** with a passion for exploring new and exciting ventures in technology and innovation.
 
@@ -12,11 +12,6 @@ Welcome to my GitHub profile! I'm currently a **Computer Engineering student** w
 
 ###  Get in Touch
 -  **Email:** [MohammadBazns@gmail.com](mailto:MohammadBazns@gmail.com)
-
----
-
-###  My GitHub Stats
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=i7modes&show_icons=true&theme=radical)
 
 ---
 
